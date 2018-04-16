@@ -45,8 +45,11 @@ O módulo deverá exibir todos os comunicados disponíveis para aquele usuário.
 4. Inicie o servidor fake
     ``npm run server``
 
-Ao terminar faça um pull request! :octocat:
-> 💡 Caso tenha dúvida não deixe de perguntar
+Ao terminar enviar um e-mail (para: duvidas.erp@tradeupgroup.com.br) com os seguintes dados:
+   - Seu Nome Completo;
+   - link do repositório github que contem o código da prova.
+   
+> 💡 Caso tenha dúvida não deixe de perguntar (duvidas.erp@tradeupgroup.com.br)
 
 ### Dicas
 - Confira os dados dos endpoints na url http://localhost:84/endpoint, alguns dados terão que ser tratados!
