@@ -1,5 +1,5 @@
 # Desafio Front-End
-Você acaba de receber sua primeira tarefa: 😎 
+Você acaba de receber sua primeira tarefa: 😎
 **Implementar a Listagem de Comunicados**
 
 A tarefa já passou pelo designer, que criou o seguinte protótipo:
@@ -16,7 +16,7 @@ A listagem de comunicados servirá como agregador de comunicados do sistema, hoj
 - Informativos ![#FF9900](https://placehold.it/15/FF9900/000000?text=+) `#FF9900`  
 - Força de Vendas ![#56CCF2](https://placehold.it/15/56CCF2/000000?text=+) `#56CCF2`
 - Fique Ligado ![#79C126](https://placehold.it/15/79C126/000000?text=+) `#79C126`  
-- Turbine Suas Vendas ![#660099](https://placehold.it/15/660099/000000?text=+) `#660099` 
+- Turbine Suas Vendas ![#660099](https://placehold.it/15/660099/000000?text=+) `#660099`
 
 O módulo deverá exibir todos os comunicados disponíveis para aquele usuário. O usuário poderá filtrar os comunicados através das categorias. Ao clicar em um comunicado o seu conteúdo deverá ser exibido e o mesmo deverá ser marcado como lido.
 
@@ -43,12 +43,12 @@ O módulo deverá exibir todos os comunicados disponíveis para aquele usuário.
 3. Instale as dependências
     ``npm install``
 4. Inicie o servidor fake
-    ``npm run server``
+    ``npm run start``
 
 Ao terminar enviar um e-mail (para: duvidas.erp@tradeupgroup.com.br) com os seguintes dados:
    - Seu Nome Completo;
    - link do repositório github que contem o código da prova.
-   
+
 > 💡 Caso tenha dúvida não deixe de perguntar (duvidas.erp@tradeupgroup.com.br)
 
 ### Dicas
@@ -59,4 +59,3 @@ Ao terminar enviar um e-mail (para: duvidas.erp@tradeupgroup.com.br) com os segu
 - Teste!
 
 👊 Bom desafio!
-
