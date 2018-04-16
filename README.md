@@ -3,7 +3,7 @@ Você acaba de receber sua primeira tarefa: 😎
 **Implementar a Listagem de Comunicados**
 
 A tarefa já passou pelo designer, que criou o seguinte protótipo:
-[Listagem de Comunicados - Protótipo](https://www.figma.com/file/YmxTthj1kDiJIXerYaSp6zkX/Desafio_Before) 🎨
+[Listagem de Comunicados - Protótipo](https://www.figma.com/file/g7nTwmd4Ne82zK1Mt3imLN/Desafio-Front-end) 🎨
 
 Com base no protótipo, implemente a Listagem de Comunicados. Sua aplicação deverá consumir dados de uma api, para isso adicionamos junto ao projeto um servidor fake para devolver requisições nos endpoints:
 - `/comunicados` : devolve a lista de comunicados
