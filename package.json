@@ -7,16 +7,16 @@
     "json-server": "^0.12.1"
   },
   "scripts": {
-    "server": "json-server --watch ./endpoints/db.json -p 84 --static ./endpoints/files"
+    "start": "json-server --watch ./endpoints/db.json -p 84 --static ./endpoints/files"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viniciusrebel/Desafio-Front-End.git"
+    "url": "git+https://github.com/malgany/Desafio-Front-End.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/viniciusrebel/Desafio-Front-End/issues"
+    "url": "https://github.com/malgany/Desafio-Front-End/issues"
   },
-  "homepage": "https://github.com/viniciusrebel/Desafio-Front-End#readme"
+  "homepage": "https://github.com/malgany/Desafio-Front-End#readme"
 }
