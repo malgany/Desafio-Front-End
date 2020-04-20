@@ -50,7 +50,7 @@ Ao terminar enviar um e-mail (para: duvidas.erp@tradeupgroup.com.br) com os segu
    - link do repositório github que contem o código da prova;
    - Prazo para realização da prova: 72hs.
 
-> 💡 Caso tenha dúvida não deixe de perguntar (duvidas.erp@tradeupgroup.com.br)
+> 💡 Caso tenha dúvida não deixe de perguntar (duvidas.erp@-.com.br)
 
 ### Dicas
 - Confira os dados dos endpoints na url http://localhost:84/endpoint, alguns dados terão que ser tratados!
