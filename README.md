@@ -45,7 +45,7 @@ O módulo deverá exibir todos os comunicados disponíveis para aquele usuário.
 4. Inicie o servidor fake
     ``npm run start``
 
-Ao terminar enviar um e-mail (para: duvidas.erp@tradeupgroup.com.br) com os seguintes dados:
+Ao terminar enviar um e-mail (para: duvidas.erp@-.com.br) com os seguintes dados:
    - Seu Nome Completo;
    - link do repositório github que contem o código da prova;
    - Prazo para realização da prova: 72hs.
